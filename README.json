@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T15:11:45Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72370
+            "stars": 72410
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T16:14:24Z",
+            "last_commit": "2026-08-16T15:59:28Z",
             "owner": "radareorg",
             "repo": "radare2",
-            "stars": 24573
+            "stars": 24582
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-13T22:31:03Z",
             "owner": "rizinorg",
             "repo": "cutter",
-            "stars": 19466
+            "stars": 19471
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-24T09:46:16Z",
             "owner": "ChiChou",
             "repo": "bagbak",
-            "stars": 1485
+            "stars": 1486
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2023-06-24T21:09:20Z",
             "owner": "JohnCoates",
             "repo": "flexdecrypt",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -232,10 +232,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:36:52Z",
+            "last_commit": "2026-08-16T14:12:09Z",
             "owner": "abrignoni",
             "repo": "iLEAPP",
-            "stars": 1150
+            "stars": 1151
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T06:26:01Z",
+            "last_commit": "2026-08-16T06:26:03Z",
             "owner": "horsicq",
             "repo": "XMachOViewer",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2020-09-05T02:29:35Z",
             "owner": "DeVaukz",
             "repo": "MachO-Explorer",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-08-13T16:00:51Z",
             "owner": "frida",
             "repo": "frida",
-            "stars": 21632
+            "stars": 21640
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-07-23T13:40:22Z",
             "owner": "sensepost",
             "repo": "objection",
-            "stars": 9315
+            "stars": 9319
           }
         },
         {
@@ -339,7 +339,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6059
+            "stars": 6062
           }
         },
         {
@@ -367,7 +367,7 @@
             "last_commit": "2026-08-07T07:58:34Z",
             "owner": "zhkl0228",
             "repo": "unidbg",
-            "stars": 5132
+            "stars": 5136
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-03T21:28:34Z",
             "owner": "m0bilesecurity",
             "repo": "RMS-Runtime-Mobile-Security",
-            "stars": 3068
+            "stars": 3069
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-12T14:46:22Z",
             "owner": "nowsecure",
             "repo": "r2frida",
-            "stars": 1431
+            "stars": 1432
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2026-03-19T14:16:09Z",
             "owner": "randorisec",
             "repo": "MobileHackingCheatSheet",
-            "stars": 1684
+            "stars": 1683
           }
         }
       ],
@@ -708,7 +708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:46:00.535Z",
+    "last_updated": "2026-08-16T16:45:48.556Z",
     "original_repository": "Cy-clon3/awesome-ios-security",
     "original_repository_sha": "a65370f368a740bbd256429990931dc0664ec782",
     "enhanced_repository": "enhansome/enhansome-ios-security",
