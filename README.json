@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T16:16:20Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72517
+                "stars": 72524
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T11:03:59Z",
+                "last_commit": "2026-08-19T16:15:57Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24597
+                "stars": 24599
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21670
+                "stars": 21672
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9327
+                "stars": 9328
               }
             },
             {
@@ -640,7 +640,7 @@
             "last_commit": "2025-12-22T15:06:19Z",
             "owner": "OWASP",
             "repo": "masvs",
-            "stars": 2432
+            "stars": 2433
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13120
+            "stars": 13121
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:18.872Z",
+    "last_updated": "2026-08-19T16:52:04.661Z",
     "original_repository": "Cy-clon3/awesome-ios-security",
     "original_repository_id": 479983698,
     "original_repository_sha": "a65370f368a740bbd256429990931dc0664ec782",
