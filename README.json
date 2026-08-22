@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T13:07:30Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72622
+                "stars": 72666
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-21T16:11:16Z",
+                "last_commit": "2026-08-22T11:21:08Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24613
+                "stars": 24617
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-13T22:31:03Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19486
+                "stars": 19503
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-06-24T21:09:20Z",
                 "owner": "JohnCoates",
                 "repo": "flexdecrypt",
-                "stars": 737
+                "stars": 736
               }
             },
             {
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 229842283,
                 "language": "Python",
-                "last_commit": "2026-08-21T05:01:11Z",
+                "last_commit": "2026-08-22T05:13:22Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1164
+                "stars": 1165
               }
             },
             {
@@ -261,10 +261,10 @@
                 "archived": false,
                 "id": 182052450,
                 "language": "C++",
-                "last_commit": "2026-08-21T06:26:09Z",
+                "last_commit": "2026-08-22T06:26:06Z",
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
-                "stars": 960
+                "stars": 959
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21690
+                "stars": 21695
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9335
+                "stars": 9336
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-07-22T14:09:44Z",
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6065
+                "stars": 6069
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-07T07:58:34Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5151
+                "stars": 5153
               }
             },
             {
@@ -493,7 +493,7 @@
                 "archived": false,
                 "id": 9340574,
                 "language": "C",
-                "last_commit": "2026-08-20T12:04:11Z",
+                "last_commit": "2026-08-22T11:46:52Z",
                 "owner": "frida",
                 "repo": "frida-gum",
                 "stars": 1006
@@ -526,7 +526,7 @@
                 "last_commit": "2026-08-16T21:51:25Z",
                 "owner": "radareorg",
                 "repo": "r2ghidra",
-                "stars": 538
+                "stars": 539
               }
             },
             {
@@ -640,7 +640,7 @@
             "last_commit": "2025-12-22T15:06:19Z",
             "owner": "OWASP",
             "repo": "masvs",
-            "stars": 2433
+            "stars": 2436
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13124
+            "stars": 13128
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:56:55.194Z",
+    "last_updated": "2026-08-22T16:45:27.860Z",
     "original_repository": "Cy-clon3/awesome-ios-security",
     "original_repository_id": 479983698,
     "original_repository_sha": "a65370f368a740bbd256429990931dc0664ec782",
