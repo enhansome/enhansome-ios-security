@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T16:51:31Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72852
+                "stars": 72928
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-26T17:33:56Z",
+                "last_commit": "2026-08-27T08:56:54Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24650
+                "stars": 24658
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19572
+                "stars": 19595
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2025-09-01T00:42:47Z",
                 "owner": "DanTheMan827",
                 "repo": "ios-app-signer",
-                "stars": 6314
+                "stars": 6313
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2023-05-03T01:42:52Z",
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3920
+                "stars": 3921
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2023-06-24T21:09:20Z",
                 "owner": "JohnCoates",
                 "repo": "flexdecrypt",
-                "stars": 737
+                "stars": 738
               }
             },
             {
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 229842283,
                 "language": "Python",
-                "last_commit": "2026-08-26T02:31:09Z",
+                "last_commit": "2026-08-27T01:28:09Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1171
+                "stars": 1172
               }
             },
             {
@@ -261,7 +261,7 @@
                 "archived": false,
                 "id": 182052450,
                 "language": "C++",
-                "last_commit": "2026-08-25T19:02:10Z",
+                "last_commit": "2026-08-27T06:26:55Z",
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
                 "stars": 960
@@ -331,7 +331,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21750
+                "stars": 21759
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9346
+                "stars": 9348
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-07-22T14:09:44Z",
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6074
+                "stars": 6076
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2024-08-01T06:10:59Z",
                 "owner": "facebook",
                 "repo": "fishhook",
-                "stars": 5425
+                "stars": 5427
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2026-08-25T07:45:36Z",
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5165
+                "stars": 5166
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-08-03T21:28:34Z",
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3075
+                "stars": 3076
               }
             },
             {
@@ -466,7 +466,7 @@
                 "last_commit": "2026-08-11T19:32:49Z",
                 "owner": "ChiChou",
                 "repo": "grapefruit",
-                "stars": 1379
+                "stars": 1380
               }
             },
             {
@@ -493,7 +493,7 @@
                 "archived": false,
                 "id": 9340574,
                 "language": "C",
-                "last_commit": "2026-08-22T11:46:52Z",
+                "last_commit": "2026-08-27T11:29:34Z",
                 "owner": "frida",
                 "repo": "frida-gum",
                 "stars": 1009
@@ -621,7 +621,7 @@
                 "last_commit": "2023-07-09T15:23:58Z",
                 "owner": "nabla-c0d3",
                 "repo": "ssl-kill-switch2",
-                "stars": 3311
+                "stars": 3312
               }
             },
             {
@@ -662,7 +662,7 @@
             "last_commit": "2025-12-22T15:06:19Z",
             "owner": "OWASP",
             "repo": "masvs",
-            "stars": 2437
+            "stars": 2438
           }
         },
         {
@@ -734,7 +734,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13137
+            "stars": 13139
           }
         },
         {
@@ -772,9 +772,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:08:43.710Z",
-    "original_repository": "Cy-clon3/awesome-ios-security",
-    "original_repository_id": 479983698,
+    "last_updated": "2026-08-27T11:44:32.878Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 479983698,
+      "language": null,
+      "last_commit": "2024-01-05T22:14:08Z",
+      "owner": "Cy-clon3",
+      "repo": "awesome-ios-security",
+      "stars": 670
+    },
     "original_repository_sha": "a65370f368a740bbd256429990931dc0664ec782",
     "enhanced_repository": "enhansome/enhansome-ios-security",
     "enhanced_repository_description": null,
