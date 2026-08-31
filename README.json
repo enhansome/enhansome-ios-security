@@ -17,11 +17,11 @@
                 "id": 173228436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T13:31:09Z",
+                "last_commit": "2026-08-31T09:57:06Z",
                 "open_issues": 1923,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 73813,
+                "stars": 74155,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -42,11 +42,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T19:03:10Z",
-                "open_issues": 821,
+                "last_commit": "2026-08-31T21:27:03Z",
+                "open_issues": 823,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24682,
+                "stars": 24692,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -78,7 +78,7 @@
                 "open_issues": 494,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19636,
+                "stars": 19643,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -105,7 +105,7 @@
                 "open_issues": 123,
                 "owner": "DanTheMan827",
                 "repo": "ios-app-signer",
-                "stars": 6313,
+                "stars": 6315,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.314Z"
@@ -126,7 +126,7 @@
                 "open_issues": 107,
                 "owner": "AloneMonkey",
                 "repo": "frida-ios-dump",
-                "stars": 3922,
+                "stars": 3923,
                 "topics": [
                   "decrypted",
                   "dumpdecrypted",
@@ -365,7 +365,7 @@
                 "open_issues": 19,
                 "owner": "ptoomey3",
                 "repo": "Keychain-Dumper",
-                "stars": 1419,
+                "stars": 1421,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.314Z"
@@ -386,7 +386,7 @@
                 "open_issues": 61,
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1178,
+                "stars": 1180,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.314Z"
@@ -403,7 +403,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-29T16:26:47Z",
+                "last_commit": "2026-08-31T19:45:20Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -514,7 +514,7 @@
                 "open_issues": 1960,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21795,
+                "stars": 21808,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -539,7 +539,7 @@
                 "open_issues": 55,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9352,
+                "stars": 9355,
                 "topics": [
                   "android",
                   "framework",
@@ -623,7 +623,7 @@
                 "open_issues": 419,
                 "owner": "zhkl0228",
                 "repo": "unidbg",
-                "stars": 5175,
+                "stars": 5177,
                 "topics": [
                   "android",
                   "capstone",
@@ -682,7 +682,7 @@
                 "open_issues": 8,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3076,
+                "stars": 3077,
                 "topics": [
                   "android-security",
                   "frida",
@@ -726,11 +726,11 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T07:41:07Z",
+                "last_commit": "2026-08-31T17:44:48Z",
                 "open_issues": 44,
                 "owner": "nowsecure",
                 "repo": "r2frida",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": [
                   "android-security",
                   "dynamic-analysis",
@@ -813,11 +813,11 @@
                 "id": 9340574,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-27T16:25:49Z",
-                "open_issues": 208,
+                "last_commit": "2026-08-31T16:55:21Z",
+                "open_issues": 210,
                 "owner": "frida",
                 "repo": "frida-gum",
-                "stars": 1011,
+                "stars": 1013,
                 "topics": [
                   "frida",
                   "instrumentation"
@@ -1015,7 +1015,7 @@
                 "open_issues": 19,
                 "owner": "nabla-c0d3",
                 "repo": "ssl-kill-switch2",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": [
                   "blackbox",
                   "cydia",
@@ -1119,7 +1119,7 @@
             "open_issues": 2,
             "owner": "randorisec",
             "repo": "MobileHackingCheatSheet",
-            "stars": 1684,
+            "stars": 1685,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:43.314Z"
@@ -1202,11 +1202,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-29T09:18:06Z",
-            "open_issues": 234,
+            "last_commit": "2026-08-31T06:34:39Z",
+            "open_issues": 232,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13147,
+            "stars": 13148,
             "topics": [
               "android",
               "android-application",
@@ -1278,7 +1278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:21:42.195Z",
+    "last_updated": "2026-08-31T21:31:30.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS application security resources.",
