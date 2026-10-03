@@ -21,7 +21,7 @@
                 "open_issues": 1973,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 80330,
+                "stars": 80367,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -43,10 +43,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T17:13:48Z",
-                "open_issues": 795,
+                "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24911,
+                "stars": 24912,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -153,7 +153,7 @@
                 "open_issues": 43,
                 "owner": "KJCracks",
                 "repo": "Clutch",
-                "stars": 3825,
+                "stars": 3826,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.314Z"
@@ -403,7 +403,7 @@
                 "id": 182052450,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:19:13Z",
+                "last_commit": "2026-10-02T21:21:12Z",
                 "open_issues": 4,
                 "owner": "horsicq",
                 "repo": "XMachOViewer",
@@ -514,7 +514,7 @@
                 "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22100,
+                "stars": 22104,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -539,7 +539,7 @@
                 "open_issues": 58,
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9418,
+                "stars": 9419,
                 "topics": [
                   "android",
                   "framework",
@@ -682,7 +682,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3101,
+                "stars": 3103,
                 "topics": [
                   "android-security",
                   "frida",
@@ -726,8 +726,8 @@
                 "id": 35610263,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:44:37Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-02T22:54:03Z",
+                "open_issues": 41,
                 "owner": "nowsecure",
                 "repo": "r2frida",
                 "stars": 1447,
@@ -813,8 +813,8 @@
                 "id": 9340574,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T18:28:19Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-03T00:43:57Z",
+                "open_issues": 204,
                 "owner": "frida",
                 "repo": "frida-gum",
                 "stars": 1025,
@@ -869,7 +869,7 @@
                 "open_issues": 3,
                 "owner": "radareorg",
                 "repo": "r2ghidra",
-                "stars": 555,
+                "stars": 556,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:35:43.314Z"
@@ -1068,7 +1068,7 @@
         {
           "node_type": "item",
           "title": "OWASP Mobile Application Security Verification Standard (MASVS)",
-          "description": null,
+          "description": "OWASP/masvs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1106,7 +1106,7 @@
         {
           "node_type": "item",
           "title": "iOS CheatSheet",
-          "description": null,
+          "description": "randorisec/MobileHackingCheatSheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1133,7 +1133,7 @@
         {
           "node_type": "item",
           "title": "Myriam",
-          "description": null,
+          "description": "GeoSn0w/Myriam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1160,7 +1160,7 @@
         {
           "node_type": "item",
           "title": "WaTF Bank",
-          "description": null,
+          "description": "WaTF-Team/WaTF-Bank",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "OWASP UnCrackable Mobile Apps",
-          "description": null,
+          "description": "OWASP/mastg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1234,7 +1234,7 @@
         {
           "node_type": "item",
           "title": "r2con Crackmes",
-          "description": null,
+          "description": "hexploitable/r2con2020_r2frida",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1255,7 +1255,7 @@
         {
           "node_type": "item",
           "title": "Headbook-CTF",
-          "description": null,
+          "description": "ivRodriguezCA/Headbook-ctf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1278,7 +1278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:49:28.752Z",
+    "last_updated": "2026-10-03T04:53:10.976Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS application security resources.",

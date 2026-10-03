@@ -4,7 +4,7 @@
 
 # Awesome iOS Security with stars
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/IOS_15_logo.png" align="right" width="70" alt="iOS 15">](https://github.com/Cy-clon3/awesome-ios-security/) ⭐ 674 | 🐛 5 | 📅 2024-01-05
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/IOS_15_logo.png" align="right" width="70" alt="iOS 15">](https://github.com/Cy-clon3/awesome-ios-security/)
 
 > [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Apple_logo_grey.svg/30px-Apple_logo_grey.svg.png" width="16">]() A curated list of awesome iOS application security resources.
 
@@ -45,12 +45,12 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,330 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,911 | 🐛 795 | 🌐 C | 📅 2026-10-02 - UNIX-like reverse engineering framework and command-line toolset.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 80,367 | 🐛 1,973 | 🌐 Java | 📅 2026-09-30 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 24,912 | 🐛 798 | 🌐 C | 📅 2026-10-02 - UNIX-like reverse engineering framework and command-line toolset.
 * [Cutter](https://github.com/rizinorg/cutter) ⭐ 19,858 | 🐛 497 | 🌐 C++ | 📅 2026-09-11 - Free and Open Source Reverse Engineering Platform powered by rizin.
 * [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,321 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
 * [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 3,933 | 🐛 107 | 🌐 JavaScript | 📅 2023-05-03 - A tool to pull a decrypted IPA from a jailbroken device.
-* [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,825 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 - A high-speed iOS decryption tool.
+* [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,826 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 - A high-speed iOS decryption tool.
 * [class-dump](https://github.com/nygard/class-dump) ⭐ 3,585 | 🐛 41 | 🌐 Objective-C | 📅 2022-04-06 - A command-line utility for examining the Objective-C segment of Mach-O files.
 * [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,502 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-29 - Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.
 * [dsdump](https://github.com/DerekSelander/dsdump) ⚠️ Archived - An improved nm + objc/swift class-dump tool.
@@ -83,20 +83,20 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ### Dynamic Analysis Tools
 
-* [Frida](https://github.com/frida/frida) ⭐ 22,100 | 🐛 1,972 | 🌐 Meson | 📅 2026-10-02 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
-* [objection](https://github.com/sensepost/objection) ⭐ 9,418 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [Frida](https://github.com/frida/frida) ⭐ 22,104 | 🐛 1,972 | 🌐 Meson | 📅 2026-10-02 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,419 | 🐛 58 | 🌐 Python | 📅 2026-09-17 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 * [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,117 | 🐛 114 | 🌐 Python | 📅 2026-09-24 - An advanced binary emulation framework.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,433 | 🐛 39 | 🌐 C | 📅 2024-08-01 - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 * [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,243 | 🐛 420 | 🌐 Java | 📅 2026-09-28 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 * [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,636 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.
-* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,101 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
+* [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,103 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-01 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,447 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-02 - Radare2 and Frida better together.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,447 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-02 - Radare2 and Frida better together.
 * [Grapefruit](https://github.com/ChiChou/grapefruit) ⭐ 1,392 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-11 - Runtime Application Instruments for iOS.
 * [Dwarf](https://github.com/iGio90/Dwarf) ⭐ 1,321 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - Full featured multi arch/os debugger built on top of PyQt5 and frida.
-* [frida-gum](https://github.com/frida/frida-gum) ⭐ 1,025 | 🐛 202 | 🌐 C | 📅 2026-10-02 - Cross-platform instrumentation and introspection library written in C.
+* [frida-gum](https://github.com/frida/frida-gum) ⭐ 1,025 | 🐛 204 | 🌐 C | 📅 2026-10-03 - Cross-platform instrumentation and introspection library written in C.
 * [iproxy](https://github.com/libimobiledevice/libusbmuxd) ⭐ 691 | 🐛 31 | 🌐 C | 📅 2025-09-07 - A utility allows binding local TCP ports so that a connection to one (or more) of the local ports will be forwarded to the specified port (or ports) on a usbmux device.
-* [r2ghidra](https://github.com/radareorg/r2ghidra) ⭐ 555 | 🐛 3 | 🌐 C++ | 📅 2026-09-22 - An integration of the Ghidra decompiler for radare2.
+* [r2ghidra](https://github.com/radareorg/r2ghidra) ⭐ 556 | 🐛 3 | 🌐 C++ | 📅 2026-09-22 - An integration of the Ghidra decompiler for radare2.
 * [Fridax](https://github.com/NorthwaveSecurity/fridax) ⭐ 181 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-04 - Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 * [aah](https://github.com/zydeco/aah) ⭐ 180 | 🐛 1 | 🌐 Objective-C | 📅 2020-08-15 - Run iOS arm64 binaries on x86\_64 macOS, with varying degrees of success.
 * [FridaHookSwiftAlamofire](https://github.com/neil-wu/FridaHookSwiftAlamofire) ⭐ 113 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-06 - A frida tool that capture GET/POST HTTP requests of iOS Swift library 'Alamofire' and disable SSL Pinning.
@@ -264,4 +264,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
