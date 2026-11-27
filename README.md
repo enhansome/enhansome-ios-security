@@ -45,16 +45,16 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,352 | 🐛 2,201 | 🌐 Java | 📅 2026-11-25 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
-* [Radare2](https://github.com/radareorg/radare2) ⭐ 25,508 | 🐛 809 | 🌐 C | 📅 2026-11-26 - UNIX-like reverse engineering framework and command-line toolset.
-* [Cutter](https://github.com/rizinorg/cutter) ⭐ 20,270 | 🐛 504 | 🌐 C++ | 📅 2026-11-23 - Free and Open Source Reverse Engineering Platform powered by rizin.
-* [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,348 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-* [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 4,012 | 🐛 106 | 🌐 Python | 📅 2026-11-02 - A tool to pull a decrypted IPA from a jailbroken device.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 101,449 | 🐛 2,206 | 🌐 Java | 📅 2026-11-25 - A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
+* [Radare2](https://github.com/radareorg/radare2) ⭐ 25,517 | 🐛 800 | 🌐 C | 📅 2026-11-27 - UNIX-like reverse engineering framework and command-line toolset.
+* [Cutter](https://github.com/rizinorg/cutter) ⭐ 20,274 | 🐛 506 | 🌐 C++ | 📅 2026-11-23 - Free and Open Source Reverse Engineering Platform powered by rizin.
+* [iOS App Signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,347 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 - An app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
+* [frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 4,014 | 🐛 106 | 🌐 Python | 📅 2026-11-02 - A tool to pull a decrypted IPA from a jailbroken device.
 * [Clutch](https://github.com/KJCracks/Clutch) ⭐ 3,832 | 🐛 43 | 🌐 Objective-C | 📅 2024-11-15 - A high-speed iOS decryption tool.
 * [class-dump](https://github.com/nygard/class-dump) ⭐ 3,592 | 🐛 41 | 🌐 Objective-C | 📅 2022-04-06 - A command-line utility for examining the Objective-C segment of Mach-O files.
 * [bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,511 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Yet another frida based App decryptor. Requires jailbroken iOS device and frida.re.
 * [dsdump](https://github.com/DerekSelander/dsdump) ⚠️ Archived - An improved nm + objc/swift class-dump tool.
-* [flexdecrypt](https://github.com/JohnCoates/flexdecrypt) ⭐ 744 | 🐛 8 | 🌐 Swift | 📅 2023-06-24 - An iOS App & Mach-O binary decryptor.
+* [flexdecrypt](https://github.com/JohnCoates/flexdecrypt) ⭐ 745 | 🐛 8 | 🌐 Swift | 📅 2023-06-24 - An iOS App & Mach-O binary decryptor.
 * [bfinject](https://github.com/BishopFox/bfinject) ⭐ 645 | 🐛 34 | 🌐 Objective-C++ | 📅 2022-03-17 - Easy dylib injection for jailbroken 64-bit iOS 11.0 - 11.1.2. Compatible with Electra and LiberiOS jailbreaks.
 * [bfdecrypt](https://github.com/BishopFox/bfdecrypt) ⭐ 496 | 🐛 10 | 🌐 C | 📅 2020-05-24 - Utility to decrypt App Store apps on jailbroken iOS 11.x.
 * [SwiftDump](https://github.com/neil-wu/SwiftDump/) ⭐ 442 | 🐛 6 | 🌐 Swift | 📅 2023-08-18 - A command-line tool for retriving the Swift Object info from Mach-O file.
@@ -69,9 +69,9 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ### Static Analysis Tools
 
-* [iLEAPP](https://github.com/abrignoni/iLEAPP) ⭐ 1,475 | 🐛 54 | 🌐 Python | 📅 2026-11-25 - An iOS Logs, Events, And Plist Parser.
+* [iLEAPP](https://github.com/abrignoni/iLEAPP) ⭐ 1,477 | 🐛 52 | 🌐 Python | 📅 2026-11-27 - An iOS Logs, Events, And Plist Parser.
 * [Keychain Dumper](https://github.com/ptoomey3/Keychain-Dumper) ⭐ 1,428 | 🐛 19 | 🌐 Objective-C | 📅 2024-08-15 - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
-* [XMachOViewer](https://github.com/horsicq/XMachOViewer) ⭐ 971 | 🐛 4 | 🌐 C++ | 📅 2026-11-25 - A Mach-O viewer for Windows, Linux and macOS.
+* [XMachOViewer](https://github.com/horsicq/XMachOViewer) ⭐ 971 | 🐛 4 | 🌐 C++ | 📅 2026-11-26 - A Mach-O viewer for Windows, Linux and macOS.
 * [MachO-Explorer](https://github.com/DeVaukz/MachO-Explorer) ⭐ 681 | 🐛 5 | 🌐 Swift | 📅 2020-09-05 - A graphical Mach-O viewer for macOS. Powered by Mach-O Kit.
 * [BinaryCookieReader](https://github.com/as0ler/BinaryCookieReader) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2024-09-28 - A tool to read the binarycookie format of Cookies on iOS applications.
 * [PList Viewer](https://github.com/TingPing/plist-viewer) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2015-05-28 - Gtk application to view property list files.
@@ -83,18 +83,18 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ### Dynamic Analysis Tools
 
-* [Frida](https://github.com/frida/frida) ⭐ 22,959 | 🐛 1,967 | 🌐 Meson | 📅 2026-11-25 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
-* [objection](https://github.com/sensepost/objection) ⭐ 9,537 | 🐛 58 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
-* [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,203 | 🐛 146 | 🌐 Python | 📅 2026-10-23 - An advanced binary emulation framework.
+* [Frida](https://github.com/frida/frida) ⭐ 23,017 | 🐛 1,968 | 🌐 Meson | 📅 2026-11-26 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [objection](https://github.com/sensepost/objection) ⭐ 9,539 | 🐛 58 | 🌐 Python | 📅 2026-10-27 - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+* [Qiling](https://github.com/qilingframework/qiling) ⭐ 6,205 | 🐛 146 | 🌐 Python | 📅 2026-10-23 - An advanced binary emulation framework.
 * [fishhook](https://github.com/facebook/fishhook) ⭐ 5,443 | 🐛 39 | 🌐 C | 📅 2024-08-01 - A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,342 | 🐛 418 | 🌐 Java | 📅 2026-11-19 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
+* [unidbg](https://github.com/zhkl0228/unidbg) ⭐ 5,345 | 🐛 418 | 🌐 Java | 📅 2026-11-19 - Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation.
 * [ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,639 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iOS apps from the command line. Designed to work on un-jailbroken devices.
 * [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,154 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12 - Runtime Mobile Security (RMS), powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Passionfruit](https://github.com/chaitin/passionfruit) ⚠️ Archived - Simple iOS app blackbox assessment tool, powered by frida 12.x and vuejs.
-* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,458 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-25 - Radare2 and Frida better together.
+* [r2frida](https://github.com/nowsecure/r2frida) ⭐ 1,458 | 🐛 37 | 🌐 TypeScript | 📅 2026-11-26 - Radare2 and Frida better together.
 * [Grapefruit](https://github.com/ChiChou/grapefruit) ⭐ 1,416 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-24 - Runtime Application Instruments for iOS.
 * [Dwarf](https://github.com/iGio90/Dwarf) ⭐ 1,324 | 🐛 5 | 🌐 Python | 📅 2024-05-16 - Full featured multi arch/os debugger built on top of PyQt5 and frida.
-* [frida-gum](https://github.com/frida/frida-gum) ⭐ 1,051 | 🐛 205 | 🌐 C | 📅 2026-11-25 - Cross-platform instrumentation and introspection library written in C.
+* [frida-gum](https://github.com/frida/frida-gum) ⭐ 1,052 | 🐛 205 | 🌐 C | 📅 2026-11-26 - Cross-platform instrumentation and introspection library written in C.
 * [iproxy](https://github.com/libimobiledevice/libusbmuxd) ⭐ 693 | 🐛 23 | 🌐 C | 📅 2026-11-25 - A utility allows binding local TCP ports so that a connection to one (or more) of the local ports will be forwarded to the specified port (or ports) on a usbmux device.
 * [r2ghidra](https://github.com/radareorg/r2ghidra) ⭐ 580 | 🐛 1 | 🌐 C++ | 📅 2026-11-21 - An integration of the Ghidra decompiler for radare2.
 * [Fridax](https://github.com/NorthwaveSecurity/fridax) ⭐ 182 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-04 - Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
@@ -220,7 +220,7 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 ## Checklists & Cheatsheets
 
 * [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs) ⭐ 2,487 | 🐛 4 | 🌐 Python | 📅 2026-09-21
-* [iOS CheatSheet](https://github.com/randorisec/MobileHackingCheatSheet/blob/master/LEGACY.md#ios-cheatsheet) ⭐ 1,703 | 🐛 2 | 📅 2026-03-19
+* [iOS CheatSheet](https://github.com/randorisec/MobileHackingCheatSheet/blob/master/LEGACY.md#ios-cheatsheet) ⭐ 1,704 | 🐛 2 | 📅 2026-03-19
 * [HackTricks iOS Pentesting Checklist](https://book.hacktricks.xyz/mobile-apps-pentesting/ios-pentesting-checklist)
 * [iOS Client-Side Attacks and Tests](https://appsec-labs.com/ios-attacks-tests/)
 
@@ -233,7 +233,7 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 
 ## CTF
 
-* [OWASP UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,375 | 🐛 259 | 🌐 Python | 📅 2026-11-24
+* [OWASP UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) ⭐ 13,377 | 🐛 259 | 🌐 Python | 📅 2026-11-24
 * [r2con Crackmes](https://github.com/hexploitable/r2con2020_r2frida) ⭐ 38 | 🐛 0 | 🌐 JavaScript | 📅 2020-09-02
 * [Headbook-CTF](https://github.com/ivRodriguezCA/Headbook-ctf) ⭐ 30 | 🐛 0 | 📅 2018-03-10
 * [iOS CTF](https://www.optiv.com/insights/source-zero/blog/walkthrough-ios-ctf)
@@ -256,7 +256,7 @@ A collection of awesome tools, books, courses, blog posts, and cool stuff about 
 * [Apple Configurator](https://apps.apple.com/app/apple-configurator-2/id1037126344) - Apple Configurator features a flexible, device-centric design that enables you to configure one or dozens of devices quickly and easily.
 * [Apple Platform Security](https://support.apple.com/en-gb/guide/security/welcome/web) - Explore Apple Platform Security.
 * [IPSW Downloads](https://ipsw.me/) - Download current and previous versions of Apple's iOS, iPadOS, macOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.
-* [theos](https://github.com/theos/theos) ⭐ 4,952 | 🐛 70 | 🌐 Makefile | 📅 2026-11-07 - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
+* [theos](https://github.com/theos/theos) ⭐ 4,953 | 🐛 70 | 🌐 Makefile | 📅 2026-11-07 - A cross-platform suite of tools for building and deploying software for iOS and other platforms.
 
 ## Contributing
 
@@ -264,4 +264,4 @@ Your contributions are always welcome! Please read the [contribution guidelines]
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
